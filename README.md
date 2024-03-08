@@ -78,3 +78,4 @@ With these easy steps, you can efficiently collect valuable data from Google Map
 
 ## Full loading and usage demo
 [Link to Demo Video](https://drive.google.com/file/d/11rVTxQwxdsV4R74o_F5JGMh2mLpEjM66/view?usp=sharing)
+<a href="https://drive.google.com/file/d/11rVTxQwxdsV4R74o_F5JGMh2mLpEjM66/view?usp=sharing" target="_blank">Link to Video</a>
