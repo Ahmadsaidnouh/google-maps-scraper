@@ -77,4 +77,4 @@ Using the Google Maps Scraper Chrome Extension is simple and intuitive. Follow t
 With these easy steps, you can efficiently collect valuable data from Google Maps for your projects.
 
 ## Full loading and usage demo
-[Link to Demo Video](https://drive.google.com/file/d/13QOl2DZz9Oo9TMKazWu038UBSs9qGLZw/view?usp=sharing)
+[Link to Demo Video](https://drive.google.com/file/d/11rVTxQwxdsV4R74o_F5JGMh2mLpEjM66/view?usp=sharing)
