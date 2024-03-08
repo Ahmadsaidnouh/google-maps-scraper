@@ -70,7 +70,7 @@ Using the Google Maps Scraper Chrome Extension is simple and intuitive. Follow t
 
 2. **Search for Places**: Enter a keyword in the search bar, such as "museums". You will see multiple suggestions in the sidebar on the left side of the screen.
 
-3. **Activate the Extension**: Click on the extension icon in your browser. If the current tab's URL starts with "https://www.google.com/maps/search/...", the "Scrape Places" button will be enabled.
+3. **Activate the Extension**: Click on the extension icon in your browser. Since the current tab's URL starts with "https://www.google.com/maps/search/...", the "Scrape Places" button will be enabled.
 
 4. **Scrape Data**: Click the "Scrape Places" button. The extension will begin scraping the displayed places and present the results in a table within a popup.
 
