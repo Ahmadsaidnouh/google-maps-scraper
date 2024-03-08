@@ -1,0 +1,50 @@
+html, body {
+    width: 500px;
+    /* max-height: 300px !important;
+    overflow-y: auto; */
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: transparent !important;
+    border-radius: 20px !important;
+}
+.hide {
+    /* opacity: 0 !important; */
+    visibility: hidden;
+    display: block;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+.container {
+    /* margin-inline-start: -10px;
+    background-color: red; */
+    border-radius: 15px;
+    padding: 20px;
+    /* width: 100%; */
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: grey;
+    transition: all 0.2s;
+}
+.button.enabled {
+    background-color: rgb(4, 96, 150);
+    cursor: pointer;
+}
+.button.success {
+    background-color: rgb(13, 163, 8) !important;
+}
+.button.enabled:hover {
+    background-color: rgb(3, 119, 187);
+    /* background-color: rgb(0, 162, 255); */
+}
+#message {
+    margin-top: 20px;
+}

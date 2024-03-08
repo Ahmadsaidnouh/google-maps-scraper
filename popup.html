@@ -1,0 +1,51 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Google Maps Scraper</title>
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Google Maps Easy Scrape</h1>
+        <div id="message"></div>
+        <button id="actionButton" class="button" disabled>Scrape Places</button>
+        <button id="copyButton" class="button d-none enabled">Copy Results as JSON</button>
+        <div class="loading mt-3 d-none justify-content-center align-items-center">
+            <!-- <p class="mt-3 mb-0 fw-bold">Please wait while data is being scraped...</p> -->
+            <i class="fas fa-spinner fa-spin"></i>
+        </div>
+        
+        <table class="mt-3 d-none table table-bordered text-start w-100 overflow-auto" >
+            <thead>
+                <!-- <tr>index</tr>
+                <tr>title</tr>
+                <tr>rating(reviews count)</tr>
+                <tr>latitude</tr>
+                <tr>longitude</tr>
+                <tr>shortenedURL</tr> -->
+                <tr>
+                    <th>Index</th>
+                    <th>Name</th>
+                    <th>rating</th>
+                    <th>reviews count</th>
+                    <th>latitude</th>
+                    <th>longitude</th>
+                    <th>shortenedURL</th>
+                    <th>fullURL</th>
+                </tr>
+            </thead>
+            <tbody id="resultsTable">
+
+            </tbody>
+        </table>
+    </div>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/popup.js"></script>
+</body>
+
+</html>

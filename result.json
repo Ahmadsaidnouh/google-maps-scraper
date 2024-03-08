@@ -1,0 +1,52 @@
+[
+    {
+        "fullURL": "https://www.google.com/maps/place/khlaed+ibn+el+walied+beach,+Miami/data=!4m7!3m6!1s0x14f5daa0ba016d4b:0xfb6fcd312e29dd33!8m2!3d31.2702029!4d29.992136!16s%2Fg%2F11c5fzr984!19sChIJS20BuqDa9RQRM90pLjHNb_s?authuser=0&hl=en&rclk=1",
+        "index": 1,
+        "lat": 31.2702029,
+        "long": 29.992136,
+        "name": "khlaed ibn el walied beach, Miami",
+        "rating": 3.9,
+        "reviewsCount": 71,
+        "shortenedURL": "https://maps.app.goo.gl/xhb712nGPZZkYcjh6"
+    },
+    {
+        "fullURL": "https://www.google.com/maps/place/Public+Free+Beach/data=!4m7!3m6!1s0x14f5daa5c1a53ed5:0x134c770f7d85f718!8m2!3d31.2661398!4d29.9872006!16s%2Fg%2F1tdjtcby!19sChIJ1T6lwaXa9RQRGPeFfQ93TBM?authuser=0&hl=en&rclk=1",
+        "index": 2,
+        "lat": 31.2661398,
+        "long": 29.9872006,
+        "name": "Public Free Beach",
+        "rating": 3.5,
+        "reviewsCount": 68,
+        "shortenedURL": "https://maps.app.goo.gl/m13kkCB218yhesoR8"
+    },
+    {
+        "fullURL": "https://www.google.com/maps/place/Miamy+Beach/data=!4m7!3m6!1s0x14f5daa7379e9e81:0xb779c74b8e0cbbda!8m2!3d31.2700735!4d29.9907423!16s%2Fg%2F1tkxjc60!19sChIJgZ6eN6fa9RQR2rsMjkvHebc?authuser=0&hl=en&rclk=1",
+        "index": 3,
+        "lat": 31.2700735,
+        "long": 29.9907423,
+        "name": "Miamy Beach",
+        "rating": 3.9,
+        "reviewsCount": 518,
+        "shortenedURL": "https://maps.app.goo.gl/PbTSxqjPBj9YjitF9"
+    },
+    {
+        "fullURL": "https://www.google.com/maps/place/Private+Beach/data=!4m7!3m6!1s0x14f5dab03a0a322d:0xb200192410467a0a!8m2!3d31.26208!4d29.9834578!16s%2Fg%2F1thlkf89!19sChIJLTIKOrDa9RQRCnpGECQZALI?authuser=0&hl=en&rclk=1",
+        "index": 4,
+        "lat": 31.26208,
+        "long": 29.9834578,
+        "name": "Private Beach",
+        "rating": 4,
+        "reviewsCount": 20,
+        "shortenedURL": "https://maps.app.goo.gl/VKTnCRHdbhmn534RA"
+    },
+    {
+        "fullURL": "https://www.google.com/maps/place/El+Mamurah+Beach/data=!4m7!3m6!1s0x14f5d0dc8232f1b5:0xca05b625c94574ea!8m2!3d31.2908176!4d30.0306679!16s%2Fm%2F0k56brk!19sChIJtfEygtzQ9RQR6nRFySW2Bco?authuser=0&hl=en&rclk=1",
+        "index": 5,
+        "lat": 31.2908176,
+        "long": 30.0306679,
+        "name": "El Mamurah Beach",
+        "rating": 4.2,
+        "reviewsCount": 12776,
+        "shortenedURL": "https://maps.app.goo.gl/X3o9T4Gz9CvXCFf8A"
+    }
+]
