@@ -47,7 +47,7 @@ Feel free to adjust the content to better fit your project's vision and the feat
 
 ### Download the project files
 
-Create a new folder on your machine (e.g., ___"new-foler"___). Then, open the terminal in the ___new-folder___ and clone this repo using the following command ___git clone https://github.com/Ahmadsaidnouh/google-maps-scraper.git___. Now, the folder structure will be:
+Create a new folder on your machine (e.g., ___"new-folder"___). Then, open the terminal in the ___new-folder___ and clone this repo using the following command ___git clone https://github.com/Ahmadsaidnouh/google-maps-scraper.git___. Now, the folder structure will be:
 
 ___new-folder___ --->  ___google-maps-scraper___
 
