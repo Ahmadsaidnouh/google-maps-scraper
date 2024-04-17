@@ -16,7 +16,7 @@
 
 The Google Maps Scraper Chrome Extension is born out of a passion for automation and its transformative power to save time and effort. In the digital age, efficiency is key, and this project is a testament to that belief.
 
-Initially conceived to support a separate project requiring extensive data collection from Google Maps, the traditional method involved a tedious process of visiting each location's page, manually extracting longitude and latitude from the URL, and copying details such as the shortened URL, name, rating, and visitor count.
+Initially created to support a separate project requiring extensive data collection from Google Maps, the traditional method involved a tedious process of visiting each location's page, manually extracting longitude and latitude from the URL, and copying details such as the shortened URL, name, rating, and visitor count.
 
 Recognizing the need for a more streamlined approach, this extension revolutionizes the data collection process. Users can simply open Google Maps, input a search term (e.g., "museum"), and with a single click, all the relevant data from the suggested places is neatly organized into a table within a popup window.
 
